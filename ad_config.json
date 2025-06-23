@@ -3,13 +3,13 @@
       {
         "id": "ad001",
         "type": "image",
-        "image_url": "https://dongjingsheng.github.io/ad-assets/summer_sale.jpg"
+        "image_url": "https://dongjingsheng.github.io/ad-assets/2.jpg"
       },
       {
         "id": "ad002",
         "type": "video",
-        "video_url": "https://dongjingsheng.github.io/ad-assets/new_product.mp4",
-        "image_url": "https://dongjingsheng.github.io/ad-assets/new_product_cover.jpg"
+        "video_url": "https://dongjingsheng.github.io/ad-assets/1.mp4",
+        "image_url": "https://dongjingsheng.github.io/ad-assets/2.jpg"
       }
     ],
     "global": {
