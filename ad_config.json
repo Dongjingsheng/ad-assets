@@ -1,0 +1,21 @@
+{
+    "ads": [
+      {
+        "id": "ad001",
+        "type": "image",
+        "image_url": "https://dongjingsheng.github.io/ad-assets/summer_sale.jpg",
+        "display_duration": 3500
+      },
+      {
+        "id": "ad002",
+        "type": "video",
+        "video_url": "https://dongjingsheng.github.io/ad-assets/new_product.mp4",
+        "image_url": "https://dongjingsheng.github.io/ad-assets/new_product_cover.jpg",
+        "display_duration": 6000
+      }
+    ],
+    "global": {
+      "default_display_duration": 3500,
+      "ad_closeable": true
+    }
+  }
