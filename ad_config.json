@@ -8,8 +8,13 @@
       {
         "id": "ad002",
         "type": "video",
-        "video_url": "https://dongjingsheng.github.io/ad-assets/1.mp4",
-        "image_url": "https://dongjingsheng.github.io/ad-assets/2.jpg"
+        "video_url": "https://dongjingsheng.github.io/ad-assets/4.mp4",
+        "image_url": "https://dongjingsheng.github.io/ad-assets/3.jpg"
+      },
+      {
+        "id": "ad003",
+        "type": "image",
+        "image_url": "https://dongjingsheng.github.io/ad-assets/1.jpg"
       }
     ],
     "global": {
